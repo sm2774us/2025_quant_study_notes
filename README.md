@@ -1,6 +1,15 @@
 # QUANT TRADING STUDY NOTES
 My Quantiative Trading Study Notes.
 
+## Resources
+- [Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources)
+- [Quant-Prep](https://github.com/Aniruddha-Deb/quant-prep)
+- [A Working List of Probability Questions: Week 1](https://jerryqin.com/posts/a-working-list-of-probability-problems)
+- [A Working List of Probability Questions: Week 2](https://jerryqin.com/posts/a-working-list-of-probability-problems-week-two)
+- [General Problems & Brain Teasers](https://quantnet.com/threads/big-list-of-quant-interview-questions-with-answers.36240/)
+- [Linear Algebra, Probability, and Financial Math](./QUANT%20JOB%20INTERVIEW%20QUESTIONS.pdf)
+- [Quant/FM/Data Science Compilation](./Quant_Interview_Prep.pdf)
+
 ## **Table of Contents** <a name="top"></a>
 1. [**Brief Summary of Hedge Funds**](#what-is-a-quantitative-hedge-fund)
   - 1.1. [**Hedge Funds: How Do They Differ from Mutual Funds?**](#hedge-funds-how-do-they-differ-from-mutual-funds)
