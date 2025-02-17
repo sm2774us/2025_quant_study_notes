@@ -205,9 +205,7 @@ $$
 
 - **Taylor Rule (Central Bank Policy)**:  
 
-$$
-r = r^* + \beta (\pi - \pi^*) + \gamma (y - y^*)
-$$
+![Taylor Rule](Taylor_Rule_Formula.png)
 
   where:  
   - $$r$$ = Target interest rate - $$r^*$$ = Neutral interest rate  
