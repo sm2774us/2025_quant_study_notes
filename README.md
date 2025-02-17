@@ -582,7 +582,7 @@ $$
 Z_t = Y_t - \beta X_t
 $$
 
-where $$ Z_t $$ follows **Ornstein-Uhlenbeck process**:
+where $$Z_t$$ follows **Ornstein-Uhlenbeck process**:
 
 $$
 dZ_t = \theta (\mu - Z_t)dt + \sigma dW_t
