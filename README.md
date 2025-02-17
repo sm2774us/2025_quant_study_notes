@@ -589,10 +589,10 @@ dZ_t = \theta (\mu - Z_t)dt + \sigma dW_t
 $$
 
 where:
-- $$ \theta $$ = speed of mean reversion  
-- $$ \mu $$ = long-term mean  
-- $$ \sigma $$ = volatility  
-- $$ dW_t $$ = Wiener process  
+- $$\theta$$ = speed of mean reversion  
+- $$\mu$$ = long-term mean  
+- $$\sigma$$ = volatility  
+- $$dW_t$$ = Wiener process  
 
 **Trading Rule**: Go long when $$ Z_t $$ is below $$ \mu - k\sigma $$, short when $$ Z_t $$ is above $$ \mu + k\sigma $$.
 
