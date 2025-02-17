@@ -594,7 +594,7 @@ where:
 - $$\sigma$$ = volatility  
 - $$dW_t$$ = Wiener process  
 
-**Trading Rule**: Go long when $$ Z_t $$ is below $$ \mu - k\sigma $$, short when $$ Z_t $$ is above $$ \mu + k\sigma $$.
+**Trading Rule**: Go long when $$Z_t$$ is below $$\mu - k\sigma$$, short when $$Z_t$$ is above $$\mu + k\sigma$$.
 
 #### Statistical Arbitrage
 1. High-Level Summary:
