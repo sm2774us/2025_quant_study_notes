@@ -1373,13 +1373,7 @@ Directional strategies use **time-series momentum** (e.g., Moving Averages) or *
 
 **Trend Following Rule (Moving Average Crossover)**:
 
-$$
-\text{Signal} =
-\begin{cases}
-1, & \text{if } \text{SMA}_{\text{fast}} > \text{SMA}_{\text{slow}} \\
--1, & \text{otherwise}
-\end{cases}
-$$
+![Moving_Average_Crossover](./Moving_Average_Crossover.png)
 
 #### **Python Implementation (Momentum Strategy)**
 ```python
