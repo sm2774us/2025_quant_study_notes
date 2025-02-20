@@ -7,8 +7,8 @@ My Quantiative Trading Study Notes.
 - [A Working List of Probability Questions: Week 1](https://jerryqin.com/posts/a-working-list-of-probability-problems)
 - [A Working List of Probability Questions: Week 2](https://jerryqin.com/posts/a-working-list-of-probability-problems-week-two)
 - [General Problems & Brain Teasers](https://quantnet.com/threads/big-list-of-quant-interview-questions-with-answers.36240/)
-- [Linear Algebra, Probability, and Financial Math](./QUANT%20JOB%20INTERVIEW%20QUESTIONS.pdf)
-- [Quant/FM/Data Science Compilation](./Quant_Interview_Prep.pdf)
+- [Linear Algebra, Probability, and Financial Math](../study_resources/QUANT%20JOB%20INTERVIEW%20QUESTIONS.pdf)
+- [Quant/FM/Data Science Compilation](../study_resources/Quant_Interview_Prep.pdf)
 
 ## **Table of Contents** <a name="top"></a>
 1. [**Brief Summary of Hedge Funds**](#what-is-a-quantitative-hedge-fund)
