@@ -1,4 +1,4 @@
-# Python v/s R v/s C++ in Quant Research
+# Python v/s R v/s C++ in Quant Research (Real Trading Scenario: Mid-Frequency Volatility Arbitrage Strategy targeting a Sharpe >4.0 for S&P 500 options)
 
 Let’s break this down into three parts—why Python is preferred over R in quantitative research, specific cases where R shines, and valid use cases for C++—then tie it all together with a real-life example in the context of a multi-strategy hedge fund. I’ll keep it practical and rooted in the quant research domain, focusing on trading and strategy development.
 

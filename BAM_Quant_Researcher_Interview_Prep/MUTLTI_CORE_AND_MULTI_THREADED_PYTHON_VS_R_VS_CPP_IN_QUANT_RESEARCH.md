@@ -1,4 +1,4 @@
-# Multi-Core and Multi-Threaded Python v/s R v/s C++ in Quant Research
+# Multi-Core and Multi-Threaded Python v/s R v/s C++ in Quant Research [Real Trading Scenario: Mid-Frequency Volatility Arbitrage Strategy targeting a Sharpe >4.0 for S&P 500 options scalable across large datasets (e.g., 10TB) and high-performance computing environments]
 
 ## EXPLANATION OF THE VARIOUS SOLUTIONS
 Below is a high-level summary of the solutions I’ve outlined for the volatility arbitrage strategy in the context of a multi-strategy hedge fund, focusing on multi-core (distributed computing) and multi-threaded (threads per core) optimizations. I’ll then explain the key terms and tools used across the Python, R, and C++ implementations, tying them to the progression from basic scalability to deeper optimizations (e.g., MPI, GPU).
